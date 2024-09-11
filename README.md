@@ -6,6 +6,7 @@ The Score model is a 3-dimensional equivariant graph neural network that has thr
 *Model Architecture* 
 Architecture Type: Score-Based Diffusion Model (SBDM)
 Network Architecture: Graph Convolution Neural Network (GCNN)
+
 Input Type(s): Text (PDB, SDF, MOL2, SMILES)
 Input Format(s): Protein Data Bank (PDB) Structure files for proteins, Structural Data Files (SDF), Tripos molecule structure format (MOL2) Structure files and Simplified molecular-input line-entry system (SMILES) strings for ligands
 Other Properties Related to Input: Pre-Processing Needed
