@@ -1,3 +1,5 @@
+**DiffDock Overview**
+
 DiffDock is a diffusion generative model for drug discovery in molecular blind docking. DiffDock consists of two models: the **Score** and **Confidence models**.
 The Score model is a 3-dimensional equivariant graph neural network that has three layers: embedding, interaction layer with 6 graph convolution layers, and output layer.It is used to generate a series of potential poses for protein-ligand binding by running the reverse diffusion process.
 
