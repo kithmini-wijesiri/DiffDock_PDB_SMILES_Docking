@@ -14,3 +14,6 @@ Input Format(s): Protein Data Bank (PDB) Structure files for proteins, Structura
 Other Properties Related to Input: Pre-Processing Needed
 
 *Ref:  Corso, Gabriele, Hannes Stärk, Bowen Jing, Regina Barzilay, and Tommi Jaakkola. “Diffdock: Diffusion steps, twists, and turns for molecular docking.” arXiv preprint arXiv:2210.01776 (2022)*
+
+**SMINA Overview**
+smina is a fork of Autodock Vina (http://vina.scripps.edu/) that focuses on improving scoring and minimization. SMINA allows for flexible docking, meaning it can adjust the position and orientation of both the ligand and the receptor to find the optimal binding pose
